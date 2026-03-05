@@ -6,7 +6,7 @@
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
-const char* mqtt_broker = "h6c69fc6.ala.asia-southeast1.emqxsl.com";
+const char* mqtt_broker = "m51854c2.ala.asia-southeast1.emqxsl.com";
 const int mqtt_port = 8883;
 const char* mqtt_username = "hoaze";
 const char* mqtt_password = "Hoa1234#";
